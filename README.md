@@ -1,4 +1,8 @@
-### Hi there 👋
+# console.log("Hello 👋");
+
+`//zh`
+阿银,
+  
 
 <!--
 **aiayin/aiayin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
