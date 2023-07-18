@@ -1,4 +1,4 @@
-# console.log("Hello 👋");
+<!-- console.log("Hello 👋"); -->
 
 `//zh`
 阿银,
